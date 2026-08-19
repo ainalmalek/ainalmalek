@@ -1,4 +1,4 @@
-# Hi, I'm Ainal Malek 👋
+# Hi, I'm Ainal Syazwani Abdul Malek 👋
 
 ### Data Analyst | SQL | Power BI | Excel | Python
 
