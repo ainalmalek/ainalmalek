@@ -43,23 +43,12 @@ Currently, you’ll probably find me somewhere between SQL queries, Power BI das
 
 ## 📊 Featured Projects
 
-### Sales & Revenue Performance Analysis
+### 1) E-Commerce Sales & Profitability Analysis
 
-**Tools:** SQL | Excel | Power BI
+**Tools:** Excel 
 
-Analyzing sales performance, revenue trends, product performance, customer behavior and key business KPIs to identify opportunities for revenue growth and improved business performance.
+This project analyses e-commerce transaction data to evaluate the company's sales performance, product and regional performance, customer value, discount effectiveness, and profitability.
 
-### Customer Analytics
-
-**Tools:** SQL | Power BI | Excel
-
-Analyzing customer segments, purchasing behavior, revenue contribution and customer trends to generate actionable business insights.
-
-### E-commerce Analytics
-
-**Tools:** Excel | SQL | Power BI
-
-Analyzing e-commerce sales, product performance, customer behavior and profitability to identify key drivers of business performance.
 
 > 🚧 More projects are currently being developed and will be added to this portfolio.
 
