@@ -43,7 +43,7 @@ Currently, you’ll probably find me somewhere between SQL queries, Power BI das
 
 ## 📊 Featured Projects
 
-### 1) E-Commerce Sales & Profitability Analysis
+### 1) UrbanMart — E-commerce Sales & Profitability Analytics
 
 **Tools:** Excel 
 
