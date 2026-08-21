@@ -45,7 +45,7 @@ Currently, you’ll probably find me somewhere between SQL queries, Power BI das
 
 ### 1) UrbanMart — E-commerce Sales & Profitability Analytics
 
-**Tools:** Excel 
+**Tools:** Excel | Power BI
 
 This project analyses e-commerce transaction data to evaluate the company's sales performance, product and regional performance, customer value, discount effectiveness, and profitability.
 
