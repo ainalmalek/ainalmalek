@@ -49,6 +49,11 @@ Currently, you’ll probably find me somewhere between SQL queries, Power BI das
 
 This project analyses e-commerce transaction data to evaluate the company's sales performance, product and regional performance, customer value, discount effectiveness, and profitability.
 
+### 2) Meridian Tech — Employee Attrition & Workforce Analytics
+
+**Tools:** Excel | SQL | Power BI
+
+This project analyses employee workforce data to identify attrition patterns, high-risk employee groups, departmental and job role trends, and key factors associated with employee turnover.
 
 > 🚧 More projects are currently being developed and will be added to this portfolio.
 
